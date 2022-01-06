@@ -57,6 +57,7 @@
   ![GitHub](https://custom-icon-badges.herokuapp.com/badge/-GitHub-%23181717?style=flat&logo=github&logoColor=white&labelColor=111)
   ![ESlint](https://custom-icon-badges.herokuapp.com/badge/-ESlint-%234B32C3?style=flat&logo=ESlint&logoColor=white&labelColor=111)
   ![Postman](https://custom-icon-badges.herokuapp.com/badge/-Postman-%23FF6C37?style=flat&logo=Postman&logoColor=white&labelColor=111)
+  ![Markdown](https://custom-icon-badges.herokuapp.com/badge/-Markdown-%23000000?style=flat&logo=Markdown&logoColor=white&labelColor=111)
 
   ![Heroku](https://custom-icon-badges.herokuapp.com/badge/-Heroku-%23430098?style=flat&logo=Heroku&logoColor=white&labelColor=111)
   ![Vercel](https://custom-icon-badges.herokuapp.com/badge/-Vercel-%23000000?style=flat&logo=Vercel&logoColor=white&labelColor=111)
@@ -89,6 +90,8 @@
    - c
 
 ## ☕ Collaborators.
+
+* [![Mario Quiros Luna](https://custom-icon-badges.herokuapp.com/badge/-Mario%20Quirós%20Luna-%23181717?style=flat&logo=github&logoColor=white&labelColor=111)](https://github.com/MarioQuirosLuna)
 
 ## 📝 License.
 
