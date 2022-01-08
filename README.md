@@ -103,6 +103,6 @@
 [![Github](https://img.shields.io/github/followers/MarioQuirosLuna?label=Github&style=social)](https://github.com/MarioQuirosLuna)
 
 ## 💜 Acknowledgments.
-   - a
+   - https://simpleicons.org/
    - b
    - c
