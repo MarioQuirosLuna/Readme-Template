@@ -36,6 +36,7 @@
    ### 🎨 Frameworks.
    
   ![React](https://custom-icon-badges.herokuapp.com/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
+  ![Angular](https://custom-icon-badges.herokuapp.com/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white&labelColor=111)
   ![Express](https://custom-icon-badges.herokuapp.com/badge/-Express-%23000000?style=flat&logo=express&logoColor=white&labelColor=111)
   ![Node](https://custom-icon-badges.herokuapp.com/badge/-Node-%23339933?style=flat&logo=nodedotjs&logoColor=white&labelColor=111)
   ![.Net](https://custom-icon-badges.herokuapp.com/badge/-.NET-%23512BD4?style=flat&logo=.NET&logoColor=white&labelColor=111)
@@ -50,6 +51,7 @@
   ![MySQL](https://custom-icon-badges.herokuapp.com/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&labelColor=111)
   ![MSSQL](https://custom-icon-badges.herokuapp.com/badge/-MSSQL-%23CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white&labelColor=111)
   ![Mongo](https://custom-icon-badges.herokuapp.com/badge/-Mongo-%2347A248?style=flat&logo=mongodb&logoColor=white&labelColor=111)
+  ![GraphQL](https://custom-icon-badges.herokuapp.com/badge/-GraphQL-%23E10098?style=flat&logo=GraphQL&logoColor=white&labelColor=111)
   
    ### 🛠️ Software and Tools.
    
