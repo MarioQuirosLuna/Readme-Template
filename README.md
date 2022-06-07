@@ -50,6 +50,7 @@
   
   ![MySQL](https://custom-icon-badges.herokuapp.com/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white&labelColor=111)
   ![MSSQL](https://custom-icon-badges.herokuapp.com/badge/-MSSQL-%23CC2927?style=flat&logo=MicrosoftSQLServer&logoColor=white&labelColor=111)
+  ![PostgreSQL](https://custom-icon-badges.herokuapp.com/badge/-PostgreSQL-%234169E1?style=flat&logo=PostgreSQL&logoColor=white&labelColor=111)
   ![Mongo](https://custom-icon-badges.herokuapp.com/badge/-Mongo-%2347A248?style=flat&logo=mongodb&logoColor=white&labelColor=111)
   ![GraphQL](https://custom-icon-badges.herokuapp.com/badge/-GraphQL-%23E10098?style=flat&logo=GraphQL&logoColor=white&labelColor=111)
   
@@ -60,6 +61,7 @@
   ![ESlint](https://custom-icon-badges.herokuapp.com/badge/-ESlint-%234B32C3?style=flat&logo=ESlint&logoColor=white&labelColor=111)
   ![Postman](https://custom-icon-badges.herokuapp.com/badge/-Postman-%23FF6C37?style=flat&logo=Postman&logoColor=white&labelColor=111)
   ![Markdown](https://custom-icon-badges.herokuapp.com/badge/-Markdown-%23000000?style=flat&logo=Markdown&logoColor=white&labelColor=111)
+  ![PowerBI](https://custom-icon-badges.herokuapp.com/badge/-PowerBI-%23F2C811?style=flat&logo=PowerBI&logoColor=white&labelColor=111)
 
   ![Heroku](https://custom-icon-badges.herokuapp.com/badge/-Heroku-%23430098?style=flat&logo=Heroku&logoColor=white&labelColor=111)
   ![Vercel](https://custom-icon-badges.herokuapp.com/badge/-Vercel-%23000000?style=flat&logo=Vercel&logoColor=white&labelColor=111)
