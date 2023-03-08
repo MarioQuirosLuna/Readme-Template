@@ -32,6 +32,7 @@
   ![PHP](https://custom-icon-badges.herokuapp.com/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white&labelColor=111)
   ![C#](https://custom-icon-badges.herokuapp.com/badge/-CSharp-%23239120?style=flat&logo=csharp&logoColor=white&labelColor=111)
   ![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
+  ![IOS](https://custom-icon-badges.herokuapp.com/badge/-IOS-%23007aff?style=flat&logo=IOS&logoColor=white&labelColor=111)
 
    ### 🎨 Frameworks.
    
