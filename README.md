@@ -30,6 +30,7 @@
   ![Javascript](https://custom-icon-badges.herokuapp.com/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=111)
   ![Typescript](https://custom-icon-badges.herokuapp.com/badge/-Typescript-%23007acc?style=flat&logo=typescript&logoColor=white&labelColor=111)
   ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-%23007396?style=flat&logo=java&logoColor=white&labelColor=111)
+  ![Python](https://custom-icon-badges.herokuapp.com/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white&labelColor=111)
   ![PHP](https://custom-icon-badges.herokuapp.com/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white&labelColor=111)
   ![C#](https://custom-icon-badges.herokuapp.com/badge/-CSharp-%23239120?style=flat&logo=csharp&logoColor=white&labelColor=111)
   ![Android](https://custom-icon-badges.herokuapp.com/badge/-Android-%233DDC84?style=flat&logo=Android&logoColor=white&labelColor=111)
