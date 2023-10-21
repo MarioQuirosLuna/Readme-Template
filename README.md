@@ -11,6 +11,10 @@
 
 ## ✨ Demo.
 
+|IMG1|IMG2|
+|--|--|
+|![IMG1](https)|![IMG2](https)|
+
 ## 💻 About the project.
 
    ### 📜 Descriptions.
@@ -38,6 +42,7 @@
 
    ### 🎨 Frameworks.
    
+  ![Flutter](https://custom-icon-badges.herokuapp.com/badge/-flutter-%23042B59?style=flat&logo=flutter&logoColor=white&labelColor=111) 
   ![React](https://custom-icon-badges.herokuapp.com/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
   ![React](https://custom-icon-badges.herokuapp.com/badge/-ReactNative-%2361DAFB?style=flat&logo=react&logoColor=white&labelColor=111)
   ![Angular](https://custom-icon-badges.herokuapp.com/badge/-Angular-%23DD0031?style=flat&logo=angular&logoColor=white&labelColor=111)
