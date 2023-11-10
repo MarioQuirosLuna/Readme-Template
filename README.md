@@ -33,6 +33,7 @@
   ![CSS](https://custom-icon-badges.herokuapp.com/badge/-CSS-%231572b6?style=flat&logo=css3&logoColor=white&labelColor=111)
   ![Javascript](https://custom-icon-badges.herokuapp.com/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white&labelColor=111)
   ![Typescript](https://custom-icon-badges.herokuapp.com/badge/-Typescript-%23007acc?style=flat&logo=typescript&logoColor=white&labelColor=111)
+  ![Kotlin](https://custom-icon-badges.herokuapp.com/badge/-Kotlin-%237f52ff?style=flat&logo=kotlin&logoColor=white&labelColor=111)
   ![Java](https://custom-icon-badges.herokuapp.com/badge/-Java-%23007396?style=flat&logo=java&logoColor=white&labelColor=111)
   ![Python](https://custom-icon-badges.herokuapp.com/badge/-Python-%233776AB?style=flat&logo=Python&logoColor=white&labelColor=111)
   ![PHP](https://custom-icon-badges.herokuapp.com/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white&labelColor=111)
